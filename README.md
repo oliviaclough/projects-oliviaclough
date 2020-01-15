@@ -3,6 +3,10 @@ A simple Spring Boot webapp using:
 * Pulling in Bootstrap from CDN.
 * Github OAuth
 
+# Link to github pages
+
+https://oliviaclough.github.io/lab07-oliviaclough/
+
 
 # Running on Localhost.
 
